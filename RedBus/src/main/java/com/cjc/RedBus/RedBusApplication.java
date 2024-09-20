@@ -10,5 +10,9 @@ public class RedBusApplication {
 		SpringApplication.run(RedBusApplication.class, args);
 		System.out.println("main method added");
 	}
+	public Void m1()
+	{
+		System.out.println("This is m1 method added");
+	}
 
 }
