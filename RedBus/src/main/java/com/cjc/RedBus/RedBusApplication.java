@@ -15,4 +15,9 @@ public class RedBusApplication {
 		System.out.println("This is m1 method added");
 	}
 
+	public void m1()
+	{
+		Sysetm.out.println("This is m1 method");
+	}
+
 }
